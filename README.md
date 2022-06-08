@@ -1,1 +1,3 @@
 # CrimeSP
+## Em andamento...
+Análise acerca das ocorrências policiais registradas na cidade de São Paulo dos anos de 2010 a 2018. Database fornecido pela plataforma Kaggle com base nos dados do site ondefuiroubado.com.br.
