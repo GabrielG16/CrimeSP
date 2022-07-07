@@ -11,3 +11,5 @@
 * b) Identificação de distritos policiais incapazes de coibir a violência no seu entorno, <br>
 * c) Horários de maior incidência de crimes e; <br>
 * d) Variação da criminalidade ao longo do tempo para avaliar a efetividade das políticas de segurança pública.<br> 
+
+*Mapas em HTML disponíveis na pasta Maps.
